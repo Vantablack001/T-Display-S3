@@ -3,8 +3,8 @@
 // #define WIFI_SSID                    "Your-ssid"
 // #define WIFI_PASSWORD                "Your-password"
 
-#define WIFI_SSID                    "Your-ssid"
-#define WIFI_PASSWORD                "Your-password"
+#define WIFI_SSID                    "TP-Link_A6A6"
+#define WIFI_PASSWORD                "Yurtal01."
 
 #define WIFI_CONNECT_WAIT_MAX        (30 * 1000)
 
